@@ -1,0 +1,4 @@
+//arrays exercises
+//list of values
+const pizzaToppings =['tomato sauce', 'cheese', 'pepperoni'];
+console.log(pizzaToppings);
