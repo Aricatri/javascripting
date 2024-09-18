@@ -1,6 +1,6 @@
 function eat(food){
-  return food + 'tasted really good.'
+  return food + ' tasted really good.'
 }
 //definimos la variabale
-var bananas ='Bananas';
+var bananas ='bananas';
 console.log(eat(bananas));
